@@ -1,6 +1,9 @@
 # Multi-Agent AI Systems with OpenAI Services
 
 Welcome to the repository for showcasing examples of multi-agent AI systems developed using Python and integrated with OpenAI services. This project aims to demonstrate the power and flexibility of OpenAI's APIs in creating intelligent and collaborative agent-based systems.
+These examples are part of the session at REACTOR SÃO PAULO, during the week of sessions for the Global AI Bootcamp 2025. https://globalai.community/bootcamp/
+
+Reactor São Paulo: https://developer.microsoft.com/en-us/reactor/events/25121/
 
 ## Project Overview
 
